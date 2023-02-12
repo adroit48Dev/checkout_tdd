@@ -45,5 +45,5 @@ You can add more test cases to the same file to test validation test, adhoc, edg
 
 ### This is only meant to test TDD approach in python not for production use
 ### Libraries used : unittest, nose, pinocchio, coverage
-## Followed SINGLE RESPONSIBILTY PRICIPLE 
+### Followed SINGLE RESPONSIBILTY PRINCIPLE (SRP-SOLID)
 
