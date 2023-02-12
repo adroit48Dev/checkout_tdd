@@ -1,4 +1,7 @@
 """
+Author: Puviyarasan Rajininivetha
+version: 1.0.1
+
 Test Cases for Checkout Class 
 
 Create a checkout class to calculate total price of items in basket
