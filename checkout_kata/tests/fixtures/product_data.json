@@ -1,0 +1,21 @@
+[
+    {
+        "item": "A",
+        "unit_price": 50,
+        "spl_qty": 3,
+        "spl_price": 130
+    },
+    {
+        "item": "B",
+        "unit_price": 30,
+        "spl_qty": 2,
+        "spl_price": 45
+
+    },
+    {
+        "item": "C",
+        "unit_price": 10,
+        "spl_qty": 0,
+        "spl_price": 0
+    }
+]
