@@ -28,4 +28,21 @@ items in the customers basket and calculates any discounts
 3) Prior create testcases for checkout, calculating special prices.
 
 ## Usage Instructions
-clone this repository from github
+1) clone this repository from github [//in terminal]
+- git clone https://github.com/adroit48Dev/checkout_tdd.git
+
+2) activate virtual environment
+- source env/bin/activate
+
+3) change directory
+- cd checkout_kata
+
+4) in terminal type
+- nosetests // It will run all tests and shows the result.
+
+## Add more functions
+You can add more test cases to the same file to test validation test, adhoc, edge test etc.,
+
+### This is only meant to test TDD approach in python not for production use
+### Libraries used : unittest, nose, pinocchio, coverage
+
